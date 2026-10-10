@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-authz",
+  "version": "1.0.0",
+  "description": "声明式角色权限引擎：游客/用户/管理员三类角色，按表粒度控制读写权限，支持强制字段注入与字段剥离，fail-closed 安全原则。",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.cjs"
+    }
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "keywords": ["authz", "authorization", "rbac", "nuxt", "nitro", "middleware", "permission", "sqlite", "d1"],
+  "license": "MIT",
+  "author": ""
+}
