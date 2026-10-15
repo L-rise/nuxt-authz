@@ -15,5 +15,5 @@
   },
   "keywords": ["authz", "authorization", "rbac", "nuxt", "nitro", "middleware", "permission", "sqlite", "d1"],
   "license": "MIT",
-  "author": ""
+  "author": "Lr"
 }

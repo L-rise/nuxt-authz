@@ -1,7 +1,7 @@
 # nuxt-authz
 
 > 声明式角色权限引擎
-
+ <https://content-publish-site.app.workbuddy.host/>
 ## 核心价值
 
 游客/用户/管理员三类角色，按表粒度控制读写权限，支持强制字段注入与字段剥离，遵循 fail-closed 安全原则。
@@ -59,5 +59,5 @@ if (!w.allowed) throw new Error(w.error)
 - **非管理员限制**：不能自行发布、置顶或篡改计数类字段
 
 ## License
-
+ <https://shu-svcgd1rq9xm.qoder.zone/>
 MIT
